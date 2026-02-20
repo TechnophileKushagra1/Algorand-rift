@@ -1,0 +1,11 @@
+.DS_Store
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+git init
